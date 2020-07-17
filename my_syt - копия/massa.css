@@ -1,0 +1,196 @@
+.conteiner1{
+    display: flex;
+    width: 100%;
+    max-width: 1300px;
+    min-width: 400px;
+    height: 700px;
+    margin:20px;
+    background-color: darkgray;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    
+}
+.logo1{
+     display: flex;
+    width:150px;
+height:158px;;
+    background: url("logo.jpg")left no-repeat;
+   border-radius: 50%;
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+.nazw1_11{
+    position: absolute;
+    top: 5px;
+    left: 400px;
+    font-size: 24px;
+}
+.ob1_1{
+    text-decoration: none;
+    margin: 10px;
+    color:#fff;
+}
+.ob1_1:hover{
+    text-decoration: underline;
+    color: crimson;
+}
+.nazw1_1{
+font-size: 42px;
+    position: absolute;
+    top: 20px;
+    left: 300px;
+}
+.foto1_1{
+     display: flex;
+    width:800px;
+height:400px;
+    background: url("sport/massa.jpg") no-repeat; 
+    border-radius: 0%;
+    position: absolute;
+    top: 130px;
+    left: 400px;
+}
+
+.nazw1_2{
+    font-size: 25px;
+    position: absolute;
+    top: 430px;
+    left: 300px;
+    text-align:center;
+}
+.nazw1_3{
+    font-size: 25px;
+    position: absolute;
+    top: 530px;
+    left: 150px;
+    text-align:center;
+}
+.nazw2_1{
+    font-size: 28px;
+    position: absolute;
+    left: 50px;
+    text-align:center;
+    color: #fff;
+}
+
+
+
+.conteiner2{
+    display: flex;
+    width: 1300px;
+    max-width: 1300px;
+    min-width: 400px;
+    height: 675px;
+    margin:20px;
+    background:
+url("sport/massa_gl.jpg")left no-repeat;
+    position: absolute;
+    top: 700px;
+    right: 0px;
+}
+.nazw2_2{
+    font-size: 25px;
+    color: #fff;
+    position: absolute;
+    top: 50px;
+    line-height: 1.5;
+}
+
+
+/*кнопка*/
+.dws-wrapper{
+    width: 200px;
+    margin: 200px auto 0;
+    position: relative;
+    border: solid 1px rgba(255,255,255,0.8);
+    background: linear-gradient(20deg,#f00,#00f);
+    border-radius: 10%;
+    overflow: hidden;
+    position: absolute;
+    top: 150px;
+    left: 500px;
+}
+.dws-wrapper a{
+    display: block;
+    color:darkorange;
+    text-decoration: none;
+}
+.dws-wrapper a img{
+    width: 100%;
+}
+.dws-text{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px 10px;
+    opacity: 0;
+    z-index: 100;
+    transition: .5s ease;
+}
+.dws-text h3{
+    font-size: 25px;
+}
+.dws-text p{
+    font-size: 14px;
+}
+.dws-wrapper a:before,
+.dws-wrapper a:after{
+    content: '';
+    position: absolute;
+    width: 200%;
+    height: 200%;
+    transition: .5s ease-in-out;
+    mix-blend-mode: darken;
+}
+.dws-wrapper a:before{
+    right: 0;
+    bottom: -100%;
+    background: rgba(230,12,50,1);
+    -webkit-transform:skew(-45deg) translateX(100%);
+    -moz-transform:skew(-45deg) translateX(100%);
+    -ms-transform:skew(-45deg) translateX(100%);
+    -o-transform:skew(-45deg) translateX(100%);
+}
+.dws-wrapper a:after{
+    left: 0;
+    top: -100%;
+    background: rgba(21,72,174,.8);
+    -webkit-transform:skew(135deg) translateX(-100%);
+    -moz-transform:skew(135deg) translateX(-100%);
+    -ms-transform:skew(135deg) translateX(-100%);
+    -o-transform:skew(135deg) translateX(-100%);
+}
+.dws-wrapper:hover a:before{
+     -webkit-transform:skew(-45deg) translateX(0%);
+    -moz-transform:skew(-45deg) translateX(0%);
+    -ms-transform:skew(-45deg) translateX(0%);
+    -o-transform:skew(-45deg) translateX(0%);
+}
+.dws-wrapper:hover a:after{
+    -webkit-transform:skew(135deg) translateX(0%);
+    -moz-transform:skew(135deg) translateX(0%);
+    -ms-transform:skew(135deg) translateX(0%);
+    -o-transform:skew(135deg) translateX(0%);
+}
+.dws-wrapper:hover .dws-text{
+    opacity: 1;
+}
+
+
+
+.kn_oplata{
+    font-size: 32px;
+    color: #fff;
+    border: solid 3px #fff;
+    border-radius: 10%;
+    padding: 4px;
+    position: absolute;
+    top: 500px;
+    left: 530px;
+}
+.kn_oplata:hover{
+    color: crimson;
+    border-color: crimson;
+}

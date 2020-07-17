@@ -1,0 +1,16 @@
+.conteiner_gl{
+    display:block;
+    width: 1300px;
+    max-width: 1300px;
+    min-width: 400px;
+    height: 675px;
+    margin:20px;
+    background:
+url("sport/massa_gl.jpg")left no-repeat;
+    color: #fff;
+}
+.conteiner{
+    position:relative;
+       top: 100px; 
+}
+
