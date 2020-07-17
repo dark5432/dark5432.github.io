@@ -1,0 +1,61 @@
+/*big devices*/
+@media only screen and (max-width:1300px){
+    .conteiner{
+        width: 1280px;
+    }
+}
+
+/*min big devices*/
+@media only screen and (max-width:1100px){
+     .conteiner{
+        width: 960px;
+    }
+    .nazw1{
+        left: 400px;
+    }
+    .kn_gl{
+        left: 380px;
+    }
+}
+
+
+/*средний девайс*/
+@media only screen and (max-width:800px){
+    .conteiner{
+        width: 640px;
+    }
+    .nazw1{
+        left: 280px;
+    }
+    .nazw2{
+        font-size: 23px;
+    }
+    .nazw3{
+        top: 150px;
+        font-size: 23px;
+    }
+    .kn_gl{
+        left: 260px;
+    }
+}
+
+
+/*маленький девайс*/
+@media only screen and (max-width:550px){
+    .conteiner{
+        width: 480px;
+    }
+    .nazw1{
+        left: 180px;
+    }
+     .nazw2{
+        font-size: 21px;
+    }
+    .nazw3{
+        top: 150px;
+        font-size: 21px;
+    }
+    .kn_gl{
+        left: 160px;
+    }
+}

@@ -1,0 +1,153 @@
+/*big devices*/
+@media only screen and (max-width:1300px){
+    .conteiner1{
+        width: 1280px;
+    }
+    .nazw1{
+        position: absolute;
+        left: 500px;
+    }
+    .nazw2{
+        left: 250px;
+    }
+    .nazw2_1{
+        left: 250px;
+    }
+    .nazw2_2{
+        left: 250px;
+    }
+    .nazw3{
+        left: 900px;
+    }
+    .nazw3_1{
+        left: 900px;
+    }
+    .nazw3_2{
+        left: 900px;
+    }
+}
+    
+/*min big devices*/
+@media only screen and (max-width:1100px){
+     .conteiner1{
+        width: 960px;
+         height: 900px;
+}
+    .nazw1{
+        position: absolute;
+        left: 350px;
+    }
+    .foto1{
+      left: 200px;  
+    }
+    .foto2{
+       left:600px;
+    }
+    .nazw2{
+        left: 200px;
+    }
+    .nazw2_1{
+        left: 200px;
+    }
+    .nazw2_2{
+        left: 200px;
+    }
+    .nazw3{
+        left: 600px;
+    }
+    .nazw3_1{
+        left: 600px;
+    }
+    .nazw3_2{
+        left: 600px;
+    }
+    .kn_gl{
+        left: 380px;
+    }
+}
+    
+    
+    
+    
+    /*средний девайс*/
+@media only screen and (max-width:800px){
+    .conteiner1{
+        width: 640px;
+    }
+    .nazw1{
+        position: absolute;
+        left: 190px;
+    }
+     .foto1{
+      left: 50px;  
+    }
+    .foto2{
+       left:400px;
+    }
+    .nazw2{
+        left: 50px;
+    }
+    .nazw2_1{
+        left: 50px;
+    }
+    .nazw2_2{
+        left: 50px;
+    }
+    .nazw3{
+        left: 400px;
+    }
+    .nazw3_1{
+        left: 400px;
+    }
+    .nazw3_2{
+        left: 400px;
+    }
+    .kn_gl{
+        left: 210px;
+    }
+    }
+    
+    
+    /*маленький девайс*/
+@media only screen and (max-width:550px){
+    .conteiner1{
+        width: 480px;
+    }
+    .nazw1{
+        position: absolute;
+        left: 110px;
+    }
+      .foto1{
+      left: 10px;  
+    }
+    .foto2{
+       left:270px;
+    }
+    .nazw2{
+        font-size: 20px;
+        left: 10px;
+    }
+    .nazw2_1{
+        left: 10px;
+        font-size: 18px;
+    }
+    .nazw2_2{
+        left: 10px;
+         font-size: 18px;
+    }
+    .nazw3{
+        left: 270px;
+         font-size: 20px;
+    }
+    .nazw3_1{
+        left: 270px;
+        font-size: 18px;
+    }
+    .nazw3_2{
+        left: 270px;
+         font-size: 18px;
+    }
+    .kn_gl{
+        left: 130px;
+    }
+}
