@@ -259,3 +259,20 @@ height:74px;;
         top: 1180px;
     }
 }
+
+
+/*маленький девайс*/
+@media only screen and (max-width:370px){
+     .wrapper{
+        width: 320px;
+    }
+    .conteiner1{
+        width: 320px;
+          display: flex;
+    }
+    .conteiner2{
+      width: 320px; 
+    }
+    .nazw2_2{
+        font-size:25px;
+}
