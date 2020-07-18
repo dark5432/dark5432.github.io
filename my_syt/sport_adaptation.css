@@ -182,7 +182,7 @@ height:95px;;
 }
 
 /*маленький девайс*/
-@media only screen and (max-width:550px){
+@media only screen and (max-width:600px){
      .wrapper{
         width: 480px;
     }
@@ -237,8 +237,8 @@ height:74px;;
         left: 69%;
     }
     .conteiner2{
-      width: 480px; 
-        height: 850px;
+      width: 100%; 
+        height: 900px;
         top: 330px;
     }
     .nazw2_3{
@@ -256,7 +256,7 @@ height:74px;;
     .conteiner3{
         top: 1280px;
         width: 480px;
-        top: 1180px;
+     
     }
 }
 
