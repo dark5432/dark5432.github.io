@@ -9,9 +9,8 @@ body{
     display: flex;
     width: 100%;
     max-width: 1300px;
-    min-width: 400px;
+    min-width: 200px;
     height: 843px;
-    margin:20px;
      background: url("../my_syt/sport/1.jpg")left no-repeat;
     position: absolute;
     top: 0px;
@@ -326,9 +325,9 @@ height:158px;;
     display: flex;
     width: 100%;
     max-width: 1300px;
-    min-width: 400px;
+    min-width: 200px;
     height: 600px;
-    background-color: ;
+    background-color:aqua ;
     position: absolute;
     top: 870px;
 }
