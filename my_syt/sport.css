@@ -53,7 +53,7 @@ height:158px;;
 }
 .dws{
     position: absolute;
-    top: 50%;
+    top: 55%;
     left: 43%;
     -webkit-transform:translate(-20%, -45%);
     -moz-transform:translate(-50%, -45%);
@@ -326,7 +326,7 @@ height:158px;;
     width: 100%;
     max-width: 1300px;
     min-width: 200px;
-    height: 600px;
+    height: 650px;
     background-color: ;
     position: absolute;
     top: 870px;
@@ -388,7 +388,7 @@ height:158px;;
     height: 100px;
     background-color: ;
     position: absolute;
-    top: 1450px;
+    top: 1500px;
 }
 .nazw3_1{
     font-size: 28px;
