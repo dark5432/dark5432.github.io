@@ -1,0 +1,41 @@
+/*При ширине экрана в 1160 и менее*/
+@media (max-width: 1160px){
+      .wrapper{
+        width: 100%;
+    }
+    .conteiner1{
+        width: 100%;
+    }
+    .nazw1_1{
+        width: 100%;
+        text-align: center;
+        left: 10%;
+    }
+    .nazw1_2{
+        width: 100%;
+        text-align: center;
+        left: 0%;
+    }
+    .butt1{
+         width: 100%;
+        text-align: center;
+        left: 0%;
+    }
+    .dws{
+        top: 60%;
+    }
+    .dws1{
+        left: 10%;
+    }
+    .dws2{
+        left: 10%;
+        top: 95%;
+}
+    .dws3{
+        left: 70%;
+    }
+    .dws4{
+        left: 70%;
+        top: 95%;
+}
+}
