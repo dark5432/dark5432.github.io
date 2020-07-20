@@ -9,13 +9,12 @@ body{
     display: flex;
     width: 100%;
     max-width: 1300px;
-    min-width: 400px;
+    min-width: 200px;
     height: 843px;
-    margin:20px;
      background: url("../my_syt/sport/1.jpg")left no-repeat;
-    position: absolute;
-    top: 0px;
-    right: 0px;
+    background-position: center;
+        background-size: cover;
+   
     
 }
 .logo1{
@@ -54,7 +53,7 @@ height:158px;;
 }
 .dws{
     position: absolute;
-    top: 50%;
+    top: 55%;
     left: 43%;
     -webkit-transform:translate(-20%, -45%);
     -moz-transform:translate(-50%, -45%);
@@ -326,11 +325,13 @@ height:158px;;
     display: flex;
     width: 100%;
     max-width: 1300px;
-    min-width: 400px;
-    height: 600px;
+    min-width: 200px;
+    height: 650px;
     background-color: ;
     position: absolute;
     top: 870px;
+     background-position: center;
+        background-size: cover;
 }
 
 .nazw2_1{
@@ -387,7 +388,7 @@ height:158px;;
     height: 100px;
     background-color: ;
     position: absolute;
-    top: 1450px;
+    top: 1500px;
 }
 .nazw3_1{
     font-size: 28px;
