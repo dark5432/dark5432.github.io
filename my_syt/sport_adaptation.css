@@ -2,9 +2,12 @@
 @media only screen and (max-width:1300px){
     .wrapper{
         width: 1280px;
-    }
+        box-sizing: border-box;    }
     .conteiner1{
         width: 1280px;
+    }
+    .dws{
+        top: 50%;
     }
     .butt1{
         top: 70px;
@@ -20,6 +23,7 @@
 @media only screen and (max-width:960px){
      .wrapper{
         width: 960px;
+         box-sizing: border-box; 
     }
     .conteiner1{
         width: 960px;
@@ -47,7 +51,7 @@ height:95px;;
     }
     .dws{
          position: absolute;
-    top: 60%;
+    top: 50%;
     left: 42%;
     }
     .dws1{
@@ -98,6 +102,7 @@ height:95px;;
 @media only screen and (max-width:640px){
      .wrapper{
         width: 640px;
+         box-sizing: border-box; 
     }
     .conteiner1{
         width: 640px;
@@ -119,7 +124,7 @@ height:95px;;
     }
      .dws{
          position: absolute;
-    top: 60%;
+    top: 55%;
     left: 45%;
     }
     .butt1{
@@ -188,6 +193,7 @@ height:95px;;
 @media only screen and (max-width:480px){
      .wrapper{
         width: 480px;
+         box-sizing: border-box; 
     }
     .conteiner1{
         width: 480px;
@@ -267,6 +273,7 @@ height:74px;;
 @media only screen and (max-width:375px){
      .wrapper{
         width: 375px;
+         box-sizing: border-box; 
     }
     .conteiner1{
         width: 375px;
@@ -356,6 +363,7 @@ height:74px;;
 @media only screen and (max-width:320px){
      .wrapper{
         width: 320px;
+         box-sizing: border-box; 
     }
     .conteiner1{
         width: 320px;
