@@ -1,8 +1,8 @@
 /*big devices*/
 @media only screen and (max-width:1300px){
     .wrapper{
-        width: 1280px;
-        box-sizing: border-box;    }
+        width: 1280px;  
+    }
     .conteiner1{
         width: 1280px;
     }
@@ -20,10 +20,9 @@
     }
 }
 /*min mig devices*/
-@media only screen and (max-width:960px){
+@media only screen and (max-width:1080px){
      .wrapper{
         width: 960px;
-         box-sizing: border-box; 
     }
     .conteiner1{
         width: 960px;
@@ -99,10 +98,9 @@ height:95px;;
 }
 
 /*средний девайс*/
-@media only screen and (max-width:640px){
+@media only screen and (max-width:750px){
      .wrapper{
         width: 640px;
-         box-sizing: border-box; 
     }
     .conteiner1{
         width: 640px;
@@ -190,10 +188,9 @@ height:95px;;
 }
 
 /*маленький девайс*/
-@media only screen and (max-width:480px){
+@media only screen and (max-width:550px){
      .wrapper{
         width: 480px;
-         box-sizing: border-box; 
     }
     .conteiner1{
         width: 480px;
@@ -270,10 +267,9 @@ height:74px;;
     }
 }
 /*совсем маленький девайс*/
-@media only screen and (max-width:375px){
+@media only screen and (max-width:450px){
      .wrapper{
         width: 375px;
-         box-sizing: border-box; 
     }
     .conteiner1{
         width: 375px;
@@ -360,7 +356,7 @@ height:74px;;
 
 
 /*прям совсем маленький девайс*/
-@media only screen and (max-width:320px){
+@media only screen and (max-width:400px){
      .wrapper{
         width: 320px;
          box-sizing: border-box; 
