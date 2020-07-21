@@ -117,20 +117,20 @@ height:95px;;
     }
     .nazw1_2{
         position: absolute;
-        left: 170px;
+        left: 180px;
         font-size: 25px;
     }
      .dws{
          position: absolute;
-    top: 55%;
+  
     left: 45%;
     }
     .butt1{
         font-size: 18px;
         line-height: 20px;
     }
-    .dws1{
-        
+    .dws{
+       top: 40%; 
     }
     .butt2{
         font-size: 18px;
@@ -215,6 +215,11 @@ height:74px;;
         font-size: 20px;
         left: 110px;
         top: 70px;
+    }
+     .dws{
+         position: absolute;
+    top: 35%;
+         left: 45%;
     }
     .butt1{
         font-size: 15px;
