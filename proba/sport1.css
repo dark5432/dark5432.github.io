@@ -11,7 +11,7 @@ body{
     max-width: 1300px;
     min-width: 200px;
     height: 843px;
-     background: url("../my_syt/sport/1.jpg")left no-repeat;
+     background: url("../my_syt/sport/1.jpg")no-repeat;
    background-position: center;
         background-size: cover;
    
