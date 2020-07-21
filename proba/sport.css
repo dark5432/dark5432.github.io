@@ -1,0 +1,439 @@
+body{
+    background-color: ;
+}
+.wrapper{
+    width: 1300px;
+   
+}
+.conteiner1{
+    display: flex;
+    width: 100%;
+    max-width: 1300px;
+    min-width: 200px;
+    height: 843px;
+     background: url("../my_syt/sport/1.jpg")left no-repeat;
+  
+   
+    
+}
+.logo1{
+     display: flex;
+    width:150px;
+height:158px;;
+    background: url("logo.jpg")left no-repeat;
+   border-radius: 50%;
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+.nazw1_1{
+    position: absolute;
+    top: 10px;
+    left: 400px;
+    font-size: 24px;
+}
+.ob1_1{
+    text-decoration: none;
+    margin: 10px;
+    color:#fff;
+}
+.ob1_1:hover{
+    text-decoration: underline;
+    color: crimson;
+}
+.nazw1_2{
+    position: absolute;
+    top: 100px;
+    left: 350px;
+    font-size: 45px;
+    text-align: center;
+    color: #fff;
+    
+}
+.dws{
+    position: absolute;
+    top: 55%;
+    left: 43%;
+    -webkit-transform:translate(-20%, -45%);
+    -moz-transform:translate(-50%, -45%);
+    -ms-transform:translate(-50%, -45%);
+    -o-transform:translate(-50%, -45%);
+}
+.butt1{
+    border: 3px solid #218294;
+    font-size: 30px; 
+    color: #218294;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    line-height: 60px;
+    font-family: Arial, sans-serif;
+    position: relative;
+    transition: .5s;
+    overflow: hidden;
+}
+.butt1::before,
+.butt1::after{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: #218294;
+    top: 0;
+    left: -100%;
+    opacity: .5;
+    transition: .3s;
+    z-index: -1;
+}
+.butt1::after{
+    opacity: 1;
+    transition-delay: .1s;
+}
+.butt1:hover{
+    color: #fff;
+}
+.butt1:hover::before,
+.butt1:hover::after{
+    left: 0;
+}
+
+
+.dws1{
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    -webkit-transform:translate(-20%, -45%);
+    -moz-transform:translate(-50%, -45%);
+    -ms-transform:translate(-50%, -45%);
+    -o-transform:translate(-50%, -45%);
+}
+
+
+.butt2{
+    border: 3px solid #218294;
+    font-size: 22px; 
+    color: #218294;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    line-height: 30px;
+    font-family: Arial, sans-serif;
+    position: relative;
+    transition: .5s;
+    overflow: hidden;
+}
+.butt2::before,
+.butt2::after{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: #218294;
+    top: 0;
+    left: -100%;
+    opacity: .5;
+    transition: .3s;
+    z-index: -1;
+}
+.butt2::after{
+    opacity: 1;
+    transition-delay: .1s;
+}
+.butt2:hover{
+    color: #fff;
+}
+.butt2:hover::before,
+.butt2:hover::after{
+    left: 0;
+}
+
+
+.butt3{
+    border: 3px solid #218294;
+    font-size: 22px; 
+    color: #218294;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    line-height: 30px;
+    font-family: Arial, sans-serif;
+    position: relative;
+    transition: .5s;
+    overflow: hidden;\
+    
+}
+.butt3::before,
+.butt3::after{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: #218294;
+    top: 0;
+    left: -100%;
+    opacity: .5;
+    transition: .3s;
+    z-index: -1;
+}
+.butt3::after{
+    opacity: 1;
+    transition-delay: .1s;
+}
+.butt3:hover{
+    color: #fff;
+}
+.butt3:hover::before,
+.butt3:hover::after{
+    left: 0;
+}
+.dws2{
+    position: absolute;
+    top: 80%;
+    left: 37%;
+    -webkit-transform:translate(-20%, -45%);
+    -moz-transform:translate(-50%, -45%);
+    -ms-transform:translate(-50%, -45%);
+    -o-transform:translate(-50%, -45%);
+}
+
+
+
+
+.butt4{
+    border: 3px solid #218294;
+    font-size: 22px; 
+    color: #218294;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    line-height: 30px;
+    font-family: Arial, sans-serif;
+    position: relative;
+    transition: .5s;
+    overflow: hidden;\
+    
+}
+.butt4::before,
+.butt4::after{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: #218294;
+    top: 0;
+    left: -100%;
+    opacity: .5;
+    transition: .3s;
+    z-index: -1;
+}
+.butt4::after{
+    opacity: 1;
+    transition-delay: .1s;
+}
+.butt4:hover{
+    color: #fff;
+}
+.butt4:hover::before,
+.butt4:hover::after{
+    left: 0;
+}
+.dws3{
+    position: absolute;
+    top: 80%;
+    left: 60%;
+    -webkit-transform:translate(-20%, -45%);
+    -moz-transform:translate(-50%, -45%);
+    -ms-transform:translate(-50%, -45%);
+    -o-transform:translate(-50%, -45%);
+}
+
+
+
+
+
+
+.butt5{
+    border: 3px solid #218294;
+    font-size: 22px; 
+    color: #218294;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    line-height: 30px;
+    font-family: Arial, sans-serif;
+    position: relative;
+    transition: .5s;
+    overflow: hidden;\
+    
+}
+.butt5::before,
+.butt5::after{
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: #218294;
+    top: 0;
+    left: -100%;
+    opacity: .5;
+    transition: .3s;
+    z-index: -1;
+}
+.butt5::after{
+    opacity: 1;
+    transition-delay: .1s;
+}
+.butt5:hover{
+    color: #fff;
+}
+.butt5:hover::before,
+.butt5:hover::after{
+    left: 0;
+}
+.dws4{
+    position: absolute;
+    top: 80%;
+    left: 85%;
+    -webkit-transform:translate(-20%, -45%);
+    -moz-transform:translate(-50%, -45%);
+    -ms-transform:translate(-50%, -45%);
+    -o-transform:translate(-50%, -45%);
+}
+.nazw1_6{
+    border: 3px solid #218294;
+    font-size: 22px; 
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+     position: relative;
+    overflow: hidden;
+}
+
+
+
+
+
+.conteiner2{
+    display: flex;
+    width: 100%;
+    max-width: 1300px;
+    min-width: 200px;
+    height: 650px;
+    background-color: ;
+    position: absolute;
+    top: 870px;
+}
+
+.nazw2_1{
+    font-size: 25px;
+}
+.nazw2_2{
+   font-size: 18px;
+    line-height: 1.5;
+    position: absolute;
+        top: 50px;
+}
+.nazw2_3{
+    font-size: 25px;
+    position: absolute;
+    top: 220px;
+    left: 0px;
+}
+.nazw2_4{
+    font-size: 18px;
+    line-height: 1.5;
+    position: absolute;
+    top: 270px;
+}
+.nazw2_5{
+     font-size: 25px;
+    position: absolute;
+    top: 380px;
+    left: 0px;
+}
+.nazw2_6{
+    font-size: 18px;
+    line-height: 1.5;
+    position: absolute;
+    top: 430px;
+}
+
+.blok2_1{
+    width: 100%;
+    background-color:brown; 
+    height: 250px;
+    
+    
+}
+
+
+
+
+
+.conteiner3{
+    display: flex;
+    width: 100%;
+    max-width: 1300px;
+    min-width: 400px;
+    height: 100px;
+    background-color: ;
+    position: absolute;
+    top: 1500px;
+}
+.nazw3_1{
+    font-size: 28px;
+    position: absolute;
+    top: 20px;
+}
+.soz3_1{
+    display:flex;
+    width:26px ;
+    height:26px;
+    background-image: url(sport/inst_07.jpg);
+    position: absolute;
+    top: 60px;
+    left: 10px;
+}
+.soz3_1:hover{
+     display:flex;
+    width:26px ;
+    height:26px;
+    background-image: url(sport/inst1_07.jpg);
+}
+.soz3_2{
+    display:flex;
+    width:26px ;
+    height:26px;
+    background-image: url(sport/odn_09.jpg);
+    position: absolute;
+    top: 60px;
+    left: 50px;
+}
+.soz3_2:hover{
+     display:flex;
+    width:26px ;
+    height:26px;
+    background-image: url(sport/odn1_09.jpg);
+}
+.soz3_3{
+    display:flex;
+    width:31px ;
+    height:26px;
+    background-image: url(sport/wk_03.jpg);
+    position: absolute;
+    top: 60px;
+    left: 90px;
+}
+.soz3_3:hover{
+     display:flex;
+    width:31px ;
+    height:26px;
+    background-image: url(sport/wk1_03.jpg);
+}

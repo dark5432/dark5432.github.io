@@ -1,0 +1,46 @@
+/*big devices*/
+@media only screen and (max-width:1300px){
+    .row{
+    display: block;
+    width: 1200px;
+}
+}
+
+
+/*min big devices*/
+@media only screen and (max-width:1100px){
+    .row{
+    display: block;
+    width: 800px;
+        left: 100px;
+    }
+    .conteiner{
+        left: 100px;
+    }
+}
+
+/*средний девайс*/
+@media only screen and (max-width:800px){
+    .row{
+    display: block;
+    width: 600px;
+        left: 100px;
+    }
+    .conteiner{
+        left: 100px;
+    }
+}
+
+
+/*маленький девайс*/
+@media only screen and (max-width:550px){
+    .row{
+    display: block;
+    width: 400px;
+        left: 100px;
+    }
+    .conteiner{
+        left: 100px;
+    }
+}
+
