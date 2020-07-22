@@ -1,18 +1,20 @@
 /*min big devices*/
-@media only screen and (max-width:960px){
+@media only screen and (max-width:1080px){
      .conteiner1{
         width: 960px;
          height: 850px;
 }
     .nazw1_11{
-        left: 270px;
+        left: 170px;
     }
     .nazw1_1{
-        left: 180px;
+        left: 120px;
+         font-size: 34px;
     }
     .foto1_1{
-        left: 270px;
-        font-size: 34px;
+        left: 170px;
+        top: 150px;
+        
     }
     .nazw1_2{
         left: 150px;
@@ -23,6 +25,12 @@
     }
     .conteiner2{
        width: 960px;
+         display: flex;
+    height: 540px;
+    margin:20px;
+    background:
+url("sport/massa_gl_960.jpg")left no-repeat;
+    position: absolute;
         top: 850px;
     }
     .nazw2_1{
