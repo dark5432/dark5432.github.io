@@ -8,13 +8,13 @@
         left: 210px;
     }
     .nazw1_1{
-        left: 150px;
+        left: 160px;
         top: 40px;
          font-size: 32px;
     }
     .foto1_1{
-        left: 200px;
-        top: 170px;
+        left: 220px;
+        top: 110px;
         
     }
     .nazw1_2{
@@ -22,12 +22,12 @@
     }
     .nazw1_3{
         left: 20px;
-        top: 580px;
+        top: 570px;
     }
     .conteiner2{
        width: 960px;
          display: flex;
-    height: 600px;
+    height: 580px;
     margin:20px;
     background:
 url("sport/massa_gl_960.jpg")left no-repeat;
