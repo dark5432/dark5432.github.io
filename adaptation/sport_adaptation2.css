@@ -1,80 +1,89 @@
-
-/*min mig devices*/
-@media only screen and (max-width:1080px){
+/*средний девайс*/
+@media only screen and (max-width:750px){
      .wrapper{
-        width: 960px;
+        width: 640px;
     }
     .conteiner1{
-        width: 960px;
-        display: flex;
-    height: 623px;
-     background: url("../my_syt/sport/1_960.jpg")left no-repeat;
+        width: 640px;
+          display: flex;
+    height: 415px;
+     background: url("../my_syt/sport/1_640.jpg")left no-repeat;
     position: absolute;
     top: 0px;
     right: 0px;
     }
-    .logo1{
-         display: flex;
-    width:90px;
-height:95px;;
-    background: url("logo_640.jpg")left no-repeat;
-   border-radius: 50%;
-    }
-    .nazw1_1{
+     .nazw1_1{
         position: absolute;
-        left: 250px;
+        left: 120px;
     }
     .nazw1_2{
         position: absolute;
-        left: 200px;
+        left: 180px;
+        font-size: 25px;
+    }
+     .dws{
+         position: absolute;
+  
+    left: 45%;
+    }
+    .butt1{
+        font-size: 18px;
+        line-height: 20px;
     }
     .dws{
-         position: absolute;
-    top: 55%;
-    left: 42%;
+       top: 40%; 
     }
-    .dws1{
-        position: absolute;
-        top: 75%;
+    .butt2{
+        font-size: 18px;
+        line-height: 20px;
     }
     .dws2{
-        position: absolute;
-        top: 75%;
-        left: 70%;
+        
+    }
+    .butt3{
+        font-size: 18px;
+        line-height: 20px;
     }
     .dws3{
-        position: absolute;
-        left: 10%; 
-        top: 90%;
-    }
-    .dws4{
-        position: absolute;
-        left: 70%;
-        top: 90%;
+        
     }
     .butt4{
-    padding-left: 12px;
-    padding-right: 30px;
+      font-size: 18px;
+        line-height: 20px;  
+        padding-left: 16px;
+        padding-right: 16px;
     }
     .butt5{
-        padding-left: 12px;
-    padding-right: 30px;
+        font-size: 18px;
+        line-height: 20px;
+        padding-left: 18px;
+        padding-right: 16px;
     }
     .conteiner2{
-        width: 960px;
-        height: 650px;
+        width: 640px;
+        height:  750px;
         position: absolute;
-        top:650px;
+        top:430px;
     }
     .nazw2_3{
         position: absolute;
-        top: 230px;
+        top: 350px;
+    }
+    .nazw2_4{
+        position: absolute;
+        top: 390px;
+    }
+     .nazw2_5{
+        position: absolute;
+        top: 520px;
+    }
+    .nazw2_6{
+        position: absolute;
+        top: 560px;
     }
     .conteiner3{
-        width: 960px;
+         width: 640px;
         position: absolute;
-        top: 1210px;
+        top: 1180px;
     }
 }
-
-
