@@ -1,8 +1,8 @@
 /*min big devices*/
-@media only screen and (max-width:1100px){
+@media only screen and (max-width:960px){
      .conteiner1{
         width: 960px;
-         height: 760px;
+         height: 850px;
 }
     .nazw1_11{
         left: 270px;
@@ -12,16 +12,18 @@
     }
     .foto1_1{
         left: 270px;
+        font-size: 34px;
     }
     .nazw1_2{
         left: 150px;
     }
     .nazw1_3{
         left: 30px;
+        top: 630px;
     }
     .conteiner2{
        width: 960px;
-        top: 760px;
+        top: 850px;
     }
     .nazw2_1{
         font-size: 25px;
