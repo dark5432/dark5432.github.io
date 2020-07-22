@@ -66,18 +66,23 @@ height:95px;;
         position: absolute;
         top:650px;
     }
+    .nazw2_2{
+        font-size: 20px;
+    }
     .nazw2_3{
         position: absolute;
         top: 290px;
     }
     .nazw2_4{
       top: 330px;
+        font-size: 20px;
     }
     .nazw2_5{
       top: 440px;
     }
     .nazw2_6{
       top: 490px;
+        font-size: 20px;
     }
     .conteiner3{
         width: 960px;
