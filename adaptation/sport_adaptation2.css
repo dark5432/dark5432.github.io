@@ -1,0 +1,80 @@
+
+/*min mig devices*/
+@media only screen and (max-width:1080px){
+     .wrapper{
+        width: 960px;
+    }
+    .conteiner1{
+        width: 960px;
+        display: flex;
+    height: 623px;
+     background: url("../my_syt/sport/1_960.jpg")left no-repeat;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    }
+    .logo1{
+         display: flex;
+    width:90px;
+height:95px;;
+    background: url("logo_640.jpg")left no-repeat;
+   border-radius: 50%;
+    }
+    .nazw1_1{
+        position: absolute;
+        left: 250px;
+    }
+    .nazw1_2{
+        position: absolute;
+        left: 200px;
+    }
+    .dws{
+         position: absolute;
+    top: 55%;
+    left: 42%;
+    }
+    .dws1{
+        position: absolute;
+        top: 75%;
+    }
+    .dws2{
+        position: absolute;
+        top: 75%;
+        left: 70%;
+    }
+    .dws3{
+        position: absolute;
+        left: 10%; 
+        top: 90%;
+    }
+    .dws4{
+        position: absolute;
+        left: 70%;
+        top: 90%;
+    }
+    .butt4{
+    padding-left: 12px;
+    padding-right: 30px;
+    }
+    .butt5{
+        padding-left: 12px;
+    padding-right: 30px;
+    }
+    .conteiner2{
+        width: 960px;
+        height: 650px;
+        position: absolute;
+        top:650px;
+    }
+    .nazw2_3{
+        position: absolute;
+        top: 230px;
+    }
+    .conteiner3{
+        width: 960px;
+        position: absolute;
+        top: 1210px;
+    }
+}
+
+
