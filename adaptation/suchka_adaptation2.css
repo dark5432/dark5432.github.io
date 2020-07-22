@@ -1,0 +1,47 @@
+/*min big devices*/
+@media only screen and (max-width:1080px){
+     .conteiner1{
+        width: 960px;
+         height: 850px;
+}
+    .nazw1_11{
+        left: 210px;
+    }
+    .nazw1_1{
+        left: 180px;
+        top: 40px;
+         font-size: 32px;
+    }
+    .foto1_1{
+        left: 220px;
+        top: 130px;
+    }
+    .nazw1_2{
+        left: 30px;
+        top: 460px;
+    }
+    .nazw1_3{
+        left: 20px;
+        top: 570px;
+    }
+    .conteiner2{
+        width: 960px;
+         display: flex;
+    height: 580px;
+    margin:20px;
+    background:
+url("sport/massa_gl_960.jpg")left no-repeat;
+    position: absolute;
+        top: 850px;
+    }
+    .nazw2_1{
+        font-size: 25px;
+    }
+    .dws-wrapper{
+        left: 350px;
+    }
+    .kn_oplata{
+        left: 380px;
+    }
+}
+

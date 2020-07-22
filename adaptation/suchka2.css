@@ -40,13 +40,13 @@ height:158px;;
 font-size: 42px;
     position: absolute;
     top: 20px;
-    left: 300px;
+    left: 400px;
 }
 .foto1_1{
      display: flex;
-    width:480px;
+    width:600px;
 height:300px;
-    background: url("sport/massa.jpg") no-repeat; 
+    background: url("sport/suchka.jpg") no-repeat; 
     border-radius: 0%;
     position: absolute;
     top: 130px;
@@ -57,7 +57,7 @@ height:300px;
     font-size: 25px;
     position: absolute;
     top: 430px;
-    left: 300px;
+    left: 200px;
     text-align:center;
 }
 .nazw1_3{
@@ -177,8 +177,6 @@ url("sport/massa_gl.jpg")left no-repeat;
 .dws-wrapper:hover .dws-text{
     opacity: 1;
 }
-
-
 
 .kn_oplata{
     font-size: 32px;
