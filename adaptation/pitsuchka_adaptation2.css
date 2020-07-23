@@ -13,7 +13,7 @@
         left: 210px;
     }
     .nazw1_1{
-        left: 250px;
+        left: 280px;
         top: 40px;
          font-size: 32px;
     }
@@ -45,6 +45,9 @@
     }
     .kn_oplata{
         left: 380px;
+    }
+    .kn_gl{
+        left: 395px;
     }
 }
 

@@ -206,3 +206,17 @@ url("sport/pitmassa_gl.jpg")left no-repeat;
     color: crimson;
     border-color: crimson;
 }
+.kn_gl{
+    font-size: 32px;
+    color: #fff;
+    border: solid 3px #fff;
+    border-radius: 10%;
+    padding: 4px;
+    position: absolute;
+    top: 600px;
+    left: 515px;
+}
+.kn_gl:hover{
+    color: crimson;
+    border-color: crimson;
+}
