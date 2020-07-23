@@ -1,0 +1,52 @@
+/*min big devices*/
+@media only screen and (max-width:1100px){
+     .conteiner1{
+        width: 960px;
+         height: 900px;
+}
+    .gl2{
+    display: flex;
+    width: 960px;
+   
+}
+    .nazw1_11{
+        left: 210px;
+    }
+    .nazw1_1{
+        left: 250px;
+        top: 40px;
+         font-size: 32px;
+    }
+    .foto1_1{
+        left: 220px;
+        top: 130px;
+    }
+    .nazw1_2{
+        left: 10px;
+        font-size: 23px;
+    }
+    .nazw1_3{
+        left: 30px;
+    }
+    .conteiner2{
+       width: 960px;
+        top: 900px;
+    }
+    .gl2{
+        display: flex;
+        width: 960px;
+        left: -20px;
+    }
+    .nazw2_1{
+        font-size: 25px;
+    }
+    .dws-wrapper{
+        left: 350px;
+    }
+    .kn_oplata{
+        left: 380px;
+    }
+}
+
+
+
