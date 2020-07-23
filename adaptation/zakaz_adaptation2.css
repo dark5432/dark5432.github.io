@@ -1,0 +1,21 @@
+
+
+
+/*min big devices*/
+@media only screen and (max-width:1100px){
+    .row{
+    display: block;
+    width: 800px;
+        left: 100px;
+    }
+    .conteiner{
+        left: 100px;
+    }
+    .form-group{
+        font-size: 35px;
+    }
+    .btn btn-default{
+         font-size: 35px;
+    }
+}
+
